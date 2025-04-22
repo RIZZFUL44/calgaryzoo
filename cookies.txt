@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+go.wordfly.com	TRUE	/	FALSE	1999999999	FGTServer	3AAA7A9D1A3F9A97D1EE58DDE27B8EBF08E744FF1F82439DA067C446DF8935F9BD34E9DB6E
+
